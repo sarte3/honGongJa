@@ -9,7 +9,6 @@ public class ProductStorage {
 	private List<Product> list = new ArrayList<Product>();
 	private Scanner scanner=new Scanner(System.in);
 	private int counter;
-	private int test;
-	
+
 	
 }
