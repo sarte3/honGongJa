@@ -15,6 +15,7 @@ public class CarExample {
 		myCar.speed = 60;
 		System.out.println("수정된 속도 : "+myCar.speed);
 		
+		Car myCar2=new Car("검정", 3000);
 	}
 
 }

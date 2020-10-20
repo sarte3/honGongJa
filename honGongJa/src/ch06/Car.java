@@ -8,4 +8,10 @@ public class Car {
 	int maxSpeed=350;
 	int speed;
 	
+	Car(){}
+	
+	Car(String color, int cc){
+		
+	}
+	
 }
